@@ -7,7 +7,9 @@
     <string name="shareDlgSubject">Pizza Quiz</string>
     <string name="shareDlgMessage">Pizza Quiz on Google Play! \n\n</string>
     <string name="impressum_pollfish_content">
-This is an unofficial app, which was made by two students. If your content is shown in this app and you don't agree with it, please send us an E-mail to blackskystudios.business@gmail.com.\nWe'll remove the data as soon as possible.</string>
+This is an unofficial app, which was made by two students. We are not in any way officially connected with the Artists which are shown in this App. If your content is shown in this app and you don\'t agree with it, please send us an E-mail to blackskystudios.business@gmail.com.\nWe\'ll remove the data as soon as possible.</string>
+
+    <string name="impressum_contact">Jakob Conda und Aaron Waller GbR - Germany\nblackskystudios.business@gmail.com\n\n</string>
 
 
 
@@ -18,9 +20,9 @@ This is an unofficial app, which was made by two students. If your content is sh
     <string name="langDirection">ltr</string>
 
     <!--Advertising-->
-    <string name="videoAdID">ca-app-pub-6261427791271993/7890516434</string>
     <string name="adBannerUnitId">ca-app-pub-6261427791271993/9550958750</string>
     <string name="adInterstitialUnitId">ca-app-pub-6261427791271993/3436266100</string>
+    <string name="videoAdID">ca-app-pub-6261427791271993/7890516434</string>
 
 
 
