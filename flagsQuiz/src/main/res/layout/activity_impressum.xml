@@ -26,7 +26,14 @@
             android:layout_marginRight="20dp">
 
             <TextView
+                android:id="@+id/impressum_contact_title"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/impressum_contact" />
+
+            <TextView
                 android:id="@+id/impressum_pollfsih_title"
+                android:layout_below="@+id/impressum_contact_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/impressum_pollfish_title"
